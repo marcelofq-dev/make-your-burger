@@ -1,5 +1,5 @@
 
-# ![make-your-burger] (./public/favicon.ico) MAKE YOUR BURGER
+# MAKE YOUR BURGER
 
 Project focused only on the Front-End that simulates order management in a hamburger restaurant.
 Inspired by watching [Vue Course 3](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL), by [Matheus Battisti on Youtube](https://www.youtube.com/@MatheusBattisti )
