@@ -1,0 +1,185 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "3 Queijos"
+      },
+      {
+        "id": 2,
+        "type": "Parmesão e Orégano"
+      },
+      {
+        "id": 3,
+        "type": "9 Grãos"
+      },
+      {
+        "id": 4,
+        "type": "Italiano Branco (Origem Vegetal)"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Maminha"
+      },
+      {
+        "id": 2,
+        "type": "Alcatra"
+      },
+      {
+        "id": 3,
+        "type": "Picanha"
+      },
+      {
+        "id": 4,
+        "type": "Veggie burger"
+      }
+    ],
+    "cheeses": [
+      {
+        "id": 1,
+        "type": "Cheddar"
+      },
+      {
+        "id": 2,
+        "type": "Suíço"
+      },
+      {
+        "id": 3,
+        "type": "Mussarela Ralada"
+      }
+    ],
+    "vegetables": [
+      {
+        "id": 1,
+        "type": "Azeitonas"
+      },
+      {
+        "id": 2,
+        "type": "Picles"
+      },
+      {
+        "id": 3,
+        "type": "Pepinos"
+      },
+      {
+        "id": 4,
+        "type": "Pimentão"
+      },
+      {
+        "id": 5,
+        "type": "Alface"
+      },
+      {
+        "id": 6,
+        "type": "Cebola Roxa"
+      },
+      {
+        "id": 7,
+        "type": "Tomate"
+      },
+      {
+        "id": 8,
+        "type": "Rúcula"
+      },
+      {
+        "id": 9,
+        "type": "Cenoura Ralada"
+      },
+      {
+        "id": 10,
+        "type": "Vinagrete"
+      }
+    ],
+    "sauces": [
+      {
+        "id": 1,
+        "type": "Cebola Agridoce"
+      },
+      {
+        "id": 2,
+        "type": "Chipotle (picante)"
+      },
+      {
+        "id": 3,
+        "type": "Barbecue"
+      },
+      {
+        "id": 4,
+        "type": "Parmesão"
+      },
+      {
+        "id": 5,
+        "type": "Maionese Temperada"
+      },
+      {
+        "id": 6,
+        "type": "Mostarda e Mel"
+      },
+      {
+        "id": 7,
+        "type": "Supreme"
+      }
+    ],
+    "optionals": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Salame"
+      },
+      {
+        "id": 4,
+        "type": "Tomate"
+      },
+      {
+        "id": 5,
+        "type": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "type": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "type": "Solicitado"
+    },
+    {
+      "id": "2",
+      "type": "Em produção"
+    },
+    {
+      "id": "3",
+      "type": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "6ba2",
+      "name": "Eduardo Xexeu",
+      "meat": "Picanha",
+      "bread": "Parmesão e Orégano",
+      "cheeses": "Cheddar",
+      "vegetables": [
+        "Picles",
+        "Rúcula"
+      ],
+      "sauces": [
+        "Mostarda e Mel",
+        "Parmesão"
+      ],
+      "optionals": [],
+      "status": "Finalizado"
+    }
+  ]
+}
